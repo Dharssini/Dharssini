@@ -1,4 +1,4 @@
-![the main banner](https://user-images.githubusercontent.com/73426538/205427720-93d1fcec-e437-4ccb-b478-89787f2d02e8.jpg)
+![The banner - Copy](https://user-images.githubusercontent.com/73426538/205427787-0bc673b4-7b10-4bf9-986f-bd5537c5cc58.jpg)
 
 <h1 align="center">Hi 👋, I'm Dharssini Karthikeyan</h1>
 <h3 align="center">Decision Maker | Programmer | Productivity</h3>
